@@ -1,5 +1,9 @@
 # PlaneEarthMap - Innovative Kartenprojektionen für das digitale Zeitalter
 
+# PlaneEarthMap
+
+🌍 **[Deutsch](README.md)** | 🇺🇸 **[English](README.en.md)** | 🇪🇸 **[Español](README.es.md)**
+
 ## 🌍 Projektvision
 
 PlaneEarthMap revolutioniert die digitale Kartographie durch alternative Erdprojektionen, die traditionelle Verzerrungen der Mercator-Projektion eliminieren. Unser GPU-beschleunigtes Rendering-System ermöglicht Echtzeit-Berechnungen komplexer Projektionsalgorithmen und bietet erstmals nahtlose bidirektionale Navigation.
