@@ -1,7 +1,5 @@
 # PlaneEarthMap - Innovative Map Projections for the Digital Age
 
-# PlaneEarthMap
-
 🌍 **[Deutsch](README.md)** | 🇺🇸 **[English](README.en.md)** | 🇪🇸 **[Español](README.es.md)**
 
 ## 🌍 Project Vision
